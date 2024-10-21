@@ -35,9 +35,8 @@ Here are some helpful resources I used throughout this project:
 
 ### 🏠 [Homepage](Demo)
 
-<video src="flight_data/flight_slow_motion.mp4" width="320" height="200" controls preload></video>
-<video src="flight_data/flight.mp4" width="320" height="200" controls preload></video>
-
+![Flight in slow motion](flight_data/flight_slow_motion.gif)
+![Flight](flight_data/flight.gif)
 ![3-axis acceleration plot](flight_data/plot_1.png)
 
 ## Author
